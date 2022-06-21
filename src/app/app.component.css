@@ -5,7 +5,10 @@ app-top-bar  {
   left: 0px;
   top: 0px;
   background-color: red;
-  
+
+}
+.container {
+  background: url("yallabgimg.jpg");
 }
 
 
