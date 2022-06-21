@@ -1,0 +1,17 @@
+app-top-bar  {
+  position: absolute;
+  width: 100%;
+  height: 19%;
+  left: 0px;
+  top: 0px;
+  background-color: red;
+  
+}
+
+
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+*/
